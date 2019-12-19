@@ -1,2 +1,2 @@
-# mtbc
-Directory for MicroTrain's Dev Bootcamp 1912
+# MicroTrain's Dev Boot Camp
+Classroom repository for MicroTrain's Boot Camp
